@@ -4,7 +4,7 @@ The aim of the project is to help the college students, i.e. our targeted audien
 # Website Live :
 [VitiansHub website](http://vitianshub.epizy.com/)
 # Download project from github :
-[Click here to Download]()
+[Click here to Download](https://codeload.github.com/Swati2021/VitiansHub/zip/refs/heads/main)
 # Installation
  1. Download and Install [XAMPP](https://www.apachefriends.org/download.html) or [WAMPP](https://www.wampserver.com/en/).
 
